@@ -252,25 +252,25 @@ This second attempt provides the better forecasting result and is used as the fi
 
 ### 1. Total Sales by Year
 
-![Total Sales by Year](Screenshot%202026-04-09%20at%204.20.05%E2%80%AFpm.png)
+![Total Sales by Year](Total_sales_by_year.png)
 
 This chart compares total sales across **2013, 2014, and 2015** for both **all stores** and the **top 200 stores**. In both views, sales are highest in **2013**, slightly lower in **2014**, and much lower in **2015**, which is expected because the 2015 data only covers part of the year. The chart also shows that the top 200 stores account for a substantial share of overall sales.
 
 ### 2. Total Sales by Day of Week
 
-![Total Sales by Day of Week](Screenshot%202026-04-09%20at%204.20.21%E2%80%AFpm.png)
+![Total Sales by Day of Week](Total_sales_by_day_Of_week.png)
 
 This line chart shows how total sales vary across the **days of the week**. Sales are strongest on **Day 1** and **Day 5**, while **Day 7** has the weakest performance by a large margin. The same general pattern appears across 2013, 2014, and 2015, suggesting a strong weekly sales cycle.
 
 ### 3. Correlation Heatmap
 
-![Correlation Heatmap](Screenshot%202026-04-09%20at%204.20.32%E2%80%AFpm.png)
+![Correlation Heatmap](Correlation_heat_map.png)
 
 The correlation matrix summarizes the relationships among the main variables used in the project. The strongest positive relationship is between **Sales** and **Customers** (**0.82**), confirming that customer volume is the most important driver of store sales. **Promo** also has a moderate positive correlation with **Sales**, while holiday-related variables show much weaker relationships.
 
 ### 4. Actual vs Predicted Sales Forecast
 
-![Actual vs Predicted Sales](Screenshot%202026-04-09%20at%204.21.21%E2%80%AFpm.png)
+![Actual vs Predicted Sales](Actual_predicted_sales_forecast.png)
 
 This chart compares **actual sales** and **predicted sales** for the final forecasting attempt. The prediction line follows the overall sales pattern reasonably well, including the sharp drops and rebounds throughout the month. Although the model does not perfectly match every peak and trough, it captures the general movement of sales and shows that the forecasting approach is useful.
 
