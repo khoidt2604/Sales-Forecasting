@@ -315,10 +315,10 @@ This project demonstrates the use of:
 
 - `Sales_Forecasting_Project.ipynb` – Jupyter notebook containing the full data analysis and forecasting workflow
 - `train.csv` – Rossmann training dataset used in the project
-- `Screenshot 2026-04-09 at 4.20.05 pm.png` – total sales by year visualisation
-- `Screenshot 2026-04-09 at 4.20.21 pm.png` – total sales by day of week visualisation
-- `Screenshot 2026-04-09 at 4.20.32 pm.png` – correlation heatmap
-- `Screenshot 2026-04-09 at 4.21.21 pm.png` – actual vs predicted sales forecast visualisation
+- Total sales by year visualisation
+- Total sales by day of week visualisation
+- Correlation heatmap
+- Actual vs predicted sales forecast visualisation
 
 ---
 
